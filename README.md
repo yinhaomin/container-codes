@@ -1,2 +1,2 @@
 # tomcat-codes
-How tomcat works codes and thinks!
+How tomcat works codes and thoughts!
