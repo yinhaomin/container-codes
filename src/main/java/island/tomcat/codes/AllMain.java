@@ -1,4 +1,4 @@
-package com.island.tomcat.codes;
+package island.tomcat.codes;
 
 public class AllMain {
 

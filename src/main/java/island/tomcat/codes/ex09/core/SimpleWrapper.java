@@ -1,7 +1,7 @@
 /*
  * copied from ex08.pyrmont.core.SimpleWrapper
  */
-package com.island.tomcat.codes.ex09.core;
+package island.tomcat.codes.ex09.core;
 
 import java.beans.PropertyChangeListener;
 import java.io.IOException;

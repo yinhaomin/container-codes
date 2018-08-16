@@ -1,7 +1,7 @@
 /**
  * copied from ex08.pyrmont.core.SimpleContextConfig
  */
-package com.island.tomcat.codes.ex09.core;
+package island.tomcat.codes.ex09.core;
 
 import org.apache.catalina.Context;
 import org.apache.catalina.Lifecycle;
